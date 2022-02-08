@@ -10,7 +10,7 @@ function App() {
       <Router>
         <ul>
           <li>
-            <Link to="/">To Home</Link>
+            <Link to="/">To Homeasdfasdf</Link>
           </li>
           <li>
             <Link to="/profile">To Profile</Link>
