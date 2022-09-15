@@ -12,9 +12,6 @@ function App() {
           <li>
             <Link to="/">To Homeasdfasdf</Link>
           </li>
-          <li>
-            <Link to="/profile">To Profile</Link>
-          </li>
 
           <li>
             <Link to="/profile/andrew" exact>To Andrew's Profile</Link>
