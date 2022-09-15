@@ -19,9 +19,7 @@ function App() {
           <li>
             <Link to="/profile/andrew" exact>To Andrew's Profile</Link>
           </li>
-          <li>
-            <Link to="/feed">To Feed</Link>
-          </li>
+         
         </ul>
         <Switch>
           <Route exact path="/" component={HomePage} />
